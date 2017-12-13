@@ -1,3 +1,4 @@
+//lodash is now available in REPL, can add any other package the same way.
 const repl = require('repl');
 let r = repl.start({
     ignoreUndefined: true,
